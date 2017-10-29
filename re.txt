@@ -2,5 +2,7 @@ git is an distributed version control system
 git is free distributed under the gpl
 git has a mutabe index calles stage 
 git tracks changes of a file
+you are so lazy
+you are 1
 
 
