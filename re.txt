@@ -1,4 +1,5 @@
 git is an distributed version control system
 git is free distributed under the gpl
+git has a mutabe index calles stage 
 
 
