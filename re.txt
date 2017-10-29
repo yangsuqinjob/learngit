@@ -1,3 +1,4 @@
-git is an version control system
-git is free software (so  you can see the changing )
+git is an distributed version control system
+git is free distributed under the gpl
+
 
